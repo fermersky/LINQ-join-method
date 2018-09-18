@@ -1,0 +1,6 @@
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\bin\Debug\LINQ Join method.exe.config
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\bin\Debug\LINQ Join method.exe
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\bin\Debug\LINQ Join method.pdb
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\obj\Debug\LINQ Join method.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\obj\Debug\LINQ Join method.exe
+C:\Users\PKO\Desktop\LINQ Join method\LINQ Join method\obj\Debug\LINQ Join method.pdb
